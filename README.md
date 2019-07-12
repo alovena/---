@@ -2,10 +2,14 @@
 Android <-> Network communication code
 
 # 2018-06-10
-- ( + machine_1.py ) 
+- ( + Insert.java ) 
+- ( + Update.java ) 
+- ( + Delete.java ) 
 <blockquote>
-Output to scatter plot using iris_dataset
+first time,
+Simple Client Server Communication In Android Using Asyntask
 </blockquote>
+
 <h3>Insert</h3>
 post 방식으로 서버와 데이터전송
 <h3>Update</h3>
@@ -14,5 +18,6 @@ post 방식으로 서버와 데이터전송
 post 방식으로 서버와 데이터전송
 
 # 2019-07-13
+- ( + XmlTask.java ) 
 * Xml파싱
 
