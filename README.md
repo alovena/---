@@ -1,7 +1,7 @@
 # Android-Network
 Android <-> Network communication code
 
-# 2018-06-10
+# 2019-04-08
 - ( + Insert.java ) 
 - ( + Update.java ) 
 - ( + Delete.java ) 
