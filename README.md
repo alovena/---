@@ -6,11 +6,11 @@ Android <-> Network communication code
 <blockquote>
 Output to scatter plot using iris_dataset
 </blockquote>
-<h1>Insert</h1>
+<h3>Insert</h3>
 post 방식으로 서버와 데이터전송
-<h1>Update</h1>
+<h3>Update</h3>
 post 방식으로 서버와 데이터전송
-<h1>Select</h1>
+<h3>Select</h3>
 post 방식으로 서버와 데이터전송
 
 # 2019-07-13
