@@ -12,15 +12,15 @@ I tried to connect my hosting Server<br>
 </blockquote>
 
 <h3>Insert</h3>
-Post data transfer to serverl
+Post data transfer to serverl<br>
 *Query : Insert mTable to values(name1,name2..)
 
 <h3>Update</h3>
-Post data transfer to server
+Post data transfer to server<br>
 *Query : Delete mTable where if...
 
 <h3>Select</h3>
-Post data transfer to server
+Post data transfer to server<br>
 *Query : Select * from mTable 
 
 # 2019-07-13
