@@ -2,7 +2,7 @@
 Android <-> Network communication code
 
 # 2018-06-10
-
+- ( + machine_1.py ) 
 *Insert
 post 방식으로 서버와 데이터전송
 * Update
