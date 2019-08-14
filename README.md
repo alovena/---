@@ -6,7 +6,7 @@ Android <-> Network communication code
 - ( + Update.java ) 
 - ( + Delete.java ) 
 <blockquote>
-Simple Client Server communication In Android Using Asyntask<br>
+Simple Client and Server communication In Android Using Asyntask<br>
 first time,<br>
 I tried to connect my hosting Server<br>
 </blockquote>
